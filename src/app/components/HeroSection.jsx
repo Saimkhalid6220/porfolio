@@ -22,7 +22,7 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
+                "M . Saim Khalid",
                 1000,
                 "Web Developer",
                 1000,
@@ -36,9 +36,8 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          <p className="text-[#ADB7BE] capitalize text-base sm:text-lg mb-6 lg:text-xl">
+           i saim khalid , nextjs devloper for website and webApplications 
           </p>
           <div>
             <Link
